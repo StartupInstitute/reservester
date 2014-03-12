@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-Reservester::Application.config.secret_key_base = '0aa5fb3fcfac41da54539d4df4b4fe7b8c7671e1f070451fb4682e4610562b09fcccfeb62ac3594959f6f45c1d6fcaf2488a4e008b26d00abcaaa99554de6941'
+Reservester::Application.config.secret_key_base = '795eb458d6834162dc076d45957f23e73f1b831dd8b0bfb6b8d11ed92b70f994235ab9f49cffadb0425cf092c849149e1c26cca591c0751a69c3b67d52ec2042'
